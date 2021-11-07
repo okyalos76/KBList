@@ -43,29 +43,29 @@ http://127.0.0.1:88/https://www.twitch.tv/verginachannel
 http://edge9.iptvnetwork.net/live/TF1/playlist.m3u8
 #EXTINF:-1 group-title="FRENCH"  tvg-name="TF1" tvg-logo="https://i.imgur.com/CJAbJfM.png", W9
 http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
-#EXTINF:-1 group-title="FRENCH"  tvg-name="M6" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Entertainment",M6
+#EXTINF:-1 group-title="FRENCH"  tvg-name="M6" tvg-logo="https://static.epg.best/fr/M6.fr.png",M6
 http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
-#EXTINF:-1 group-title="FRENCH"  tvg-name="France 2" tvg-logo="https://i.postimg.cc/SKxgxTLz/fr2.png" group-title="General",France 2
+#EXTINF:-1 group-title="FRENCH"  tvg-name="France 2" tvg-logo="https://i.postimg.cc/SKxgxTLz/fr2.png",France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
-#EXTINF:-1 group-title="FRENCH"  tvg-name="France 3" tvg-logo="https://i.postimg.cc/JzmT94Gx/fr3.png" group-title="General",France 3
+#EXTINF:-1 group-title="FRENCH"  tvg-name="France 3" tvg-logo="https://i.postimg.cc/JzmT94Gx/fr3.png",France 3
 http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-#EXTINF:-1 group-title="FRENCH"  tvg-name="France 4" tvg-logo="https://i.postimg.cc/4x58Zkcg/fr4.png" group-title="Kids",France 4
+#EXTINF:-1 group-title="FRENCH"  tvg-name="France 4" tvg-logo="https://i.postimg.cc/4x58Zkcg/fr4.png",France 4
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 group-title="FRENCH"  tvg-name="France 5" tvg-logo="https://i.postimg.cc/8zjFkLJz/fr5.png" group-title="General",France 5
+#EXTINF:-1 group-title="FRENCH"  tvg-name="France 5" tvg-logo="https://i.postimg.cc/8zjFkLJz/fr5.png",France 5
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",BFM BUSINESS HD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRENCH",BFM BUSINESS HD
 http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3605
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",BOOMERANG FHD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRENCH",BOOMERANG FHD
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/2672
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",6TER FHD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRENCH",6TER FHD
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/2545
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",AB1 FHD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRENCH",AB1 FHD
 http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/2590
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",AB3 FHD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRENCH",AB3 FHD
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/2591
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",ACTION FHD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRENCH",ACTION FHD
 http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/2575
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",ARTE FHD
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRENCH",ARTE FHD
 http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/2543
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
 http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3536
@@ -87,7 +87,7 @@ http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3543
 http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3544
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 10 HD
 http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3545
-#EXTINF:-1 group-title="Luxembourg"  tvg-name="RTL Télé Lëtzebuerg"  tvg-logo="https://i.imgur.com/H9dHlfv.png" group-title="Undefined",RTL Télé Lëtzebuerg
+#EXTINF:-1 group-title="Luxembourg"  tvg-name="RTL Télé Lëtzebuerg"  tvg-logo="https://i.imgur.com/H9dHlfv.png",RTL Télé Lëtzebuerg
 https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
-#EXTINF:-1 group-title="Luxembourg"  tvg-name="RTL 2 Tele Letzeburg"  tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Undefined",RTL 2 Tele Letzeburg
+#EXTINF:-1 group-title="Luxembourg"  tvg-name="RTL 2 Tele Letzeburg"  tvg-logo="https://i.imgur.com/bJrUjIC.png",RTL 2 Tele Letzeburg
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
