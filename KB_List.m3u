@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 group-title="GREEK" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
+#EXTINF:-1 group-title="GREEK" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
+#EXTINF:-1 group-title="GREEK" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
+#EXTINF:-1 group-title="GREEK" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
+#EXTINF:900 group-title="GREEK" tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
+https://streamcdnm17-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:300 group-title="GREEK" tvg-name="ANT1 Greece" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 HD
+https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
+#EXTINF:100 group-title="GREEK" tvg-name="Alpha Greece" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/bpfkbp2c/2728/chunklist.m3u8
+#EXTINF:700 group-title="GREEK" tvg-name="star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD 
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:600 group-title="GREEK" tvg-name="skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:800 group-title="GREEK" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:400 group-title="GREEK" tvg-name="digea.mtv.gr" tvg-logo="https://i.imgur.com/dh22Dj8.png",M.TV
+https://antennaamdnoenc.akamaized.net/maktv_akamai/abr/playlist.m3u8
+#EXTINF:8 group-title="GREEK" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:983 group-title="GREEK" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
+https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+#EXTINF:3004 group-title="GREEK" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
+https://www.dailymotion.com/embed/video/x61fbhs#tab_embed.m3u8
+#EXTINF:3074 group-title="GREEK" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",APT
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:3038 group-title="GREEK" tvg-name="KONTRA" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:3034 group-title="GREEK" tvg-name="HIGHTV"tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:3068 group-title="GREEK" tvg-name="ALERT.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:7110 group-title="GREEK" tvg-name="Κρήτη TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png",KPHTH TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:5860 group-title="GREEK" tvg-logo="",BERGINA TV
+http://127.0.0.1:88/https://www.twitch.tv/verginachannel
+#EXTINF:-1 group-title="FRENCH"  tvg-name="TF1" tvg-logo="https://i.imgur.com/CJAbJfM.png", TF1
+http://edge9.iptvnetwork.net/live/TF1/playlist.m3u8
+#EXTINF:-1 group-title="FRENCH"  tvg-name="TF1" tvg-logo="https://i.imgur.com/CJAbJfM.png", W9
+http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
+#EXTINF:-1 group-title="FRENCH"  tvg-name="M6" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Entertainment",M6
+http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
+#EXTINF:-1 group-title="FRENCH"  tvg-name="France 2" tvg-logo="https://i.postimg.cc/SKxgxTLz/fr2.png" group-title="General",France 2
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:-1 group-title="FRENCH"  tvg-name="France 3" tvg-logo="https://i.postimg.cc/JzmT94Gx/fr3.png" group-title="General",France 3
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:-1 group-title="FRENCH"  tvg-name="France 4" tvg-logo="https://i.postimg.cc/4x58Zkcg/fr4.png" group-title="Kids",France 4
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+#EXTINF:-1 group-title="FRENCH"  tvg-name="France 5" tvg-logo="https://i.postimg.cc/8zjFkLJz/fr5.png" group-title="General",France 5
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",BFM BUSINESS HD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3605
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",BOOMERANG FHD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/2672
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",6TER FHD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/2545
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",AB1 FHD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/2590
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",AB3 FHD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/2591
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",ACTION FHD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/2575
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",ARTE FHD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/2543
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3536
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 FHD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/2617
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 FHD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/2618
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 4 HD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3539
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 5 HD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3540
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 6 HD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3541
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 7 HD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3542
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 8 HD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3543
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 9 HD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3544
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 10 HD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3545
+#EXTINF:-1 group-title="Luxembourg"  tvg-name="RTL Télé Lëtzebuerg"  tvg-logo="https://i.imgur.com/H9dHlfv.png" group-title="Undefined",RTL Télé Lëtzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
+#EXTINF:-1 group-title="Luxembourg"  tvg-name="RTL 2 Tele Letzeburg"  tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Undefined",RTL 2 Tele Letzeburg
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
