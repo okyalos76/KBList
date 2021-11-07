@@ -107,437 +107,434 @@ http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5927
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 group-title="Belgium"  tvg-name="LN24"  tvg-logo="",Ln24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-#EXTINF:-1 ,France: Alsace 20
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 ,France: France 24 (ENG)
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France 24 (ENG)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 ,France: France 24 Arabic
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,France: France 24 Arabic
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France 24 Arabic
 http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,France: France 24 English
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 ,France: France 24 English
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,France: France 24 French
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France 24 French
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,France: TV5Monde Info
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 ,France: TV5Monde Info
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 ,France: TV5Monde Info
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 ,France: TV5Monde Info
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 ,France: TV5Monde Info
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 ,France: TV7 Colmar
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 ,France: TV7 Colmar
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV7 Colmar
 http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 ,FR: NETFLIX FILM 1 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NETFLIX FILM 1 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81276
-#EXTINF:-1 ,FR: NETFLIX FILM 2 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NETFLIX FILM 2 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81275
-#EXTINF:-1 ,FR: NETFLIX FILM 4 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NETFLIX FILM 4 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81273
-#EXTINF:-1 ,FR: NETFLIX FILM 5 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NETFLIX FILM 5 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81272
-#EXTINF:-1 ,FR: NETFLIX FILM 6 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NETFLIX FILM 6 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81271
-#EXTINF:-1 ,FR: NETFLIX FILM 7 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NETFLIX FILM 7 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81270
-#EXTINF:-1 ,FR: NETFLIX FILM 8 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NETFLIX FILM 8 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81269
-#EXTINF:-1 ,FR: Magico CINEMA HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Magico CINEMA HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81268
-#EXTINF:-1 ,FR: Magico CINEMA ACTION HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Magico CINEMA ACTION HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81267
-#EXTINF:-1 ,FR: Magico CINEMA ACTION 2 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Magico CINEMA ACTION 2 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81266
-#EXTINF:-1 ,FR: Magico CINEMA DRAME 1 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Magico CINEMA DRAME 1 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81264
-#EXTINF:-1 ,FR: Magico CINEMA GOLD HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Magico CINEMA GOLD HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81263
-#EXTINF:-1 ,FR: TF1 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TF1 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81262
-#EXTINF:-1 ,FR: FRANCE 2 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", FRANCE 2 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81261
-#EXTINF:-1 ,FR: FRANCE 3 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", FRANCE 3 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81260
-#EXTINF:-1 ,FR: ARTE FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", ARTE FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81259
-#EXTINF:-1 ,FR: M6 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", M6 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81258
-#EXTINF:-1 ,FR: FRANCE 5 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", FRANCE 5 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81257
-#EXTINF:-1 ,FR: C8 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", C8 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81256
-#EXTINF:-1 ,FR: W9 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", W9 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81255
-#EXTINF:-1 ,FR: TMC FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TMC FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81254
-#EXTINF:-1 ,FR: TFX FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TFX FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81253
-#EXTINF:-1 ,FR: NRJ 12 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NRJ 12 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81252
-#EXTINF:-1 ,FR: FRANCE 4 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", FRANCE 4 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81251
-#EXTINF:-1 ,FR: BFM TV FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BFM TV FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81250
-#EXTINF:-1 ,FR: CNEWS FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CNEWS FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81249
-#EXTINF:-1 ,FR: CSTAR FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CSTAR FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81248
-#EXTINF:-1 ,FR: GULLI FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", GULLI FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81247
-#EXTINF:-1 ,FR: L'EQUIPE FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", L'EQUIPE FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81246
-#EXTINF:-1 ,FR: TF1 SERIES/FILMS FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TF1 SERIES/FILMS FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81245
-#EXTINF:-1 ,FR: 6TER FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", 6TER FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81244
-#EXTINF:-1 ,FR: RMC STORY FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC STORY FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81243
-#EXTINF:-1 ,FR: RMC DECOUVERTE FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC DECOUVERTE FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81242
-#EXTINF:-1 ,FR: CHERIE 25 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CHERIE 25 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81241
-#EXTINF:-1 ,FR: TF1 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TF1 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81240
-#EXTINF:-1 ,FR: France 2 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France 2 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81239
-#EXTINF:-1 ,FR: France 3 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France 3 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81238
-#EXTINF:-1 ,FR: CANAL+
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CANAL+
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81237
-#EXTINF:-1 ,FR: Arte HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Arte HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81236
-#EXTINF:-1 ,FR: M6
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", M6
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81235
-#EXTINF:-1 ,FR: France 5 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France 5 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81234
-#EXTINF:-1 ,FR: C8
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", C8
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81233
-#EXTINF:-1 ,FR: W9
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", W9
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81232
-#EXTINF:-1 ,FR: TMC
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TMC
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81231
-#EXTINF:-1 ,FR: TFX
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TFX
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81230
-#EXTINF:-1 ,FR: NRJ 12 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NRJ 12 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81229
-#EXTINF:-1 ,FR: France 4 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France 4 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81228
-#EXTINF:-1 ,FR: BFM TV
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BFM TV
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81227
-#EXTINF:-1 ,FR: CNEWS
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CNEWS
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81226
-#EXTINF:-1 ,FR: CSTAR
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CSTAR
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81225
-#EXTINF:-1 ,FR: Gulli
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Gulli
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81224
-#EXTINF:-1 ,FR: France O
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France O
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81223
-#EXTINF:-1 ,FR: l'Equipe 21 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", l'Equipe 21 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81222
-#EXTINF:-1 ,FR: TF1 SERIES FILMS HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TF1 SERIES FILMS HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81221
-#EXTINF:-1 ,FR: 6ter HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", 6ter HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81220
-#EXTINF:-1 ,FR: RMC Story HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Story HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81219
-#EXTINF:-1 ,FR: RMC DECOUVERTE HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC DECOUVERTE HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81218
-#EXTINF:-1 ,FR: CHERIE 25 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CHERIE 25 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81217
-#EXTINF:-1 ,FR: RMC SPORT 2 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC SPORT 2 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81215
-#EXTINF:-1 ,FR: RMC SPORT 4 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC SPORT 4 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81213
-#EXTINF:-1 ,FR: RMC Sport 1 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport 1 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81212
-#EXTINF:-1 ,FR: RMC Sport 2 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport 2 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81211
-#EXTINF:-1 ,FR: RMC Sport 4 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport 4 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81209
-#EXTINF:-1 ,FR: RMC Sport 2 Access HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport 2 Access HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81207
-#EXTINF:-1 ,FR: RMC Sport 3 Access HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport 3 Access HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81206
-#EXTINF:-1 ,FR: RMC Sport Live 5 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 5 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81205
-#EXTINF:-1 ,FR: RMC Sport Live 6 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 6 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81204
-#EXTINF:-1 ,FR: RMC Sport Live 7 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 7 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81203
-#EXTINF:-1 ,FR: RMC Sport Live 8 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 8 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81202
-#EXTINF:-1 ,FR: RMC Sport Live 9 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 9 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81201
-#EXTINF:-1 ,FR: RMC Sport Live 10 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 10 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81200
-#EXTINF:-1 ,FR: RMC Sport Live 11 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 11 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81199
-#EXTINF:-1 ,FR: RMC Sport Live 12 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 12 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81198
-#EXTINF:-1 ,FR: RMC Sport Live 13 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 13 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81197
-#EXTINF:-1 ,FR: RMC Sport Live 14 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 14 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81196
-#EXTINF:-1 ,FR: RMC Sport Live 15 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 15 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81195
-#EXTINF:-1 ,FR: RMC Sport Live 16 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport Live 16 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81194
-#EXTINF:-1 ,FR: RMC SPORT NEWS FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC SPORT NEWS FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81193
-#EXTINF:-1 ,FR: RMC Sport News HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RMC Sport News HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81192
-#EXTINF:-1 ,FR: BEIN SPORTS 1 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BEIN SPORTS 1 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81191
-#EXTINF:-1 ,FR: BEIN SPORTS 2 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BEIN SPORTS 2 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81190
-#EXTINF:-1 ,FR: BEIN SPORTS 3 FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BEIN SPORTS 3 FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81189
-#EXTINF:-1 ,FR: BeIN Sports 1
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BeIN Sports 1
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81188
-#EXTINF:-1 ,FR: BeIN Sports 2
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BeIN Sports 2
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81187
-#EXTINF:-1 ,FR: BeIN Sports 3
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BeIN Sports 3
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81186
-#EXTINF:-1 ,FR: BeIN Sports MAX 4
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BeIN Sports MAX 4
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81185
-#EXTINF:-1 ,FR: BeIN Sports MAX 5
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BeIN Sports MAX 5
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81184
-#EXTINF:-1 ,FR: BeIN Sports MAX 6
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BeIN Sports MAX 6
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81183
-#EXTINF:-1 ,FR: BeIN Sports MAX 7
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BeIN Sports MAX 7
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81182
-#EXTINF:-1 ,FR: BeIN Sports MAX 8
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BeIN Sports MAX 8
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81181
-#EXTINF:-1 ,FR: BeIN Sports MAX 9
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BeIN Sports MAX 9
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81180
-#EXTINF:-1 ,FR: BeIN Sports MAX 10
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BeIN Sports MAX 10
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81179
 #EXTINF:-1 ,===== CANALSAT FHD =====
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81178
-#EXTINF:-1 ,FR: CANAL+ CINEMA FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CANAL+ CINEMA FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81177
-#EXTINF:-1 ,FR: CANAL+ DECALE FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CANAL+ DECALE FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81176
-#EXTINF:-1 ,FR: CANAL+ FAMILY FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CANAL+ FAMILY FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81175
-#EXTINF:-1 ,FR: CANAL+ SERIES FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CANAL+ SERIES FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81174
-#EXTINF:-1 ,FR: CINE+ PREMIER FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CINE+ PREMIER FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81173
-#EXTINF:-1 ,FR: CINE+ FRISSON FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CINE+ FRISSON FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81172
-#EXTINF:-1 ,FR: CINE+ FAMIZ FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CINE+ FAMIZ FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81171
-#EXTINF:-1 ,FR: CINE+ CLASSIC FHD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CINE+ CLASSIC FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81170
 #EXTINF:-1 ,|FR6 CINE+ CLUB FHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81169
 #EXTINF:-1 ,===== CANALSAT =====
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81168
-#EXTINF:-1 ,FR: CANAL+ CINEMA
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CANAL+ CINEMA
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81167
-#EXTINF:-1 ,FR: CANAL+ DECALE
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CANAL+ DECALE
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81166
-#EXTINF:-1 ,FR: CANAL+ FAMILY
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CANAL+ FAMILY
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81165
-#EXTINF:-1 ,FR: CANAL+ SERIES
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CANAL+ SERIES
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81164
-#EXTINF:-1 ,FR: CANAL+ SPORT
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CANAL+ SPORT
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81163
-#EXTINF:-1 ,FR: CINE+ PREMIER
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CINE+ PREMIER
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81162
-#EXTINF:-1 ,FR: CINE+ FRISSON
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CINE+ FRISSON
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81161
-#EXTINF:-1 ,FR: CINE+ FAMIZ
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CINE+ FAMIZ
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81160
-#EXTINF:-1 ,FR: CINE+ EMOTION
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CINE+ EMOTION
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81159
-#EXTINF:-1 ,FR: CINE+ CLASSIC
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CINE+ CLASSIC
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81158
-#EXTINF:-1 ,FR: OCS MAX
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", OCS MAX
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81156
-#EXTINF:-1 ,FR: OCS CITY
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", OCS CITY
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81155
-#EXTINF:-1 ,FR: OCS GEANTS
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", OCS GEANTS
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81154
-#EXTINF:-1 ,FR: OCS CHOC
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", OCS CHOC
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81153
 #EXTINF:-1 ,[CA-FR] SUPER ECRAN 1
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81152
-#EXTINF:-1 ,FR: WARNER TV
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", WARNER TV
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81147
-#EXTINF:-1 ,FR: TCM CINEMA
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TCM CINEMA
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81146
-#EXTINF:-1 ,FR: Paramount Channel HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Paramount Channel HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81145
-#EXTINF:-1 ,FR: Paramount Channel Decale HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Paramount Channel Decale HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81144
-#EXTINF:-1 ,FR: SERIE CLUB HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", SERIE CLUB HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81142
-#EXTINF:-1 ,FR: 13EME RUE HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", 13EME RUE HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81140
-#EXTINF:-1 ,FR: AB3 HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", AB3 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81138
-#EXTINF:-1 ,FR: PARIS PREMIERE HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", PARIS PREMIERE HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81137
-#EXTINF:-1 ,FR: BET HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BET HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81135
-#EXTINF:-1 ,FR: COMEDIE+
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", COMEDIE+
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81134
-#EXTINF:-1 ,FR: MY COMEDY
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", MY COMEDY
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81133
-#EXTINF:-1 ,FR: TV Breizh
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV Breizh
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81132
-#EXTINF:-1 ,FR: TEVA
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TEVA
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81131
-#EXTINF:-1 ,FR: E! ENTERTAINMENT HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", E! ENTERTAINMENT HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81130
-#EXTINF:-1 ,FR: MTV HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", MTV HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81129
-#EXTINF:-1 ,FR: MCM
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", MCM
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81128
-#EXTINF:-1 ,FR: PIWI+
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", PIWI+
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81127
-#EXTINF:-1 ,FR: Tiji
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Tiji
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81126
-#EXTINF:-1 ,FR: DISNEY JUNIOR
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", DISNEY JUNIOR
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81123
-#EXTINF:-1 ,FR: DISNEY XD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", DISNEY XD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81122
-#EXTINF:-1 ,FR: NICKELODEON
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NICKELODEON
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81121
-#EXTINF:-1 ,FR: NICKELODEON JUNIOR
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NICKELODEON JUNIOR
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81120
-#EXTINF:-1 ,FR: NICKELODEON TEEN
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NICKELODEON TEEN
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81119
-#EXTINF:-1 ,FR: Boomerang
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Boomerang
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81118
-#EXTINF:-1 ,FR: BOING
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BOING
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81117
-#EXTINF:-1 ,FR: TELETOON+
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TELETOON+
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81116
-#EXTINF:-1 ,FR: Canal J
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Canal J
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81115
-#EXTINF:-1 ,FR: CARTOON NETWORK
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CARTOON NETWORK
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81114
-#EXTINF:-1 ,FR: Toonami
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Toonami
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81113
-#EXTINF:-1 ,FR: J-ONE HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", J-ONE HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81111
-#EXTINF:-1 ,FR: Game One
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Game One
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81110
-#EXTINF:-1 ,FR: INFOSPORT+
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", INFOSPORT+
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81108
-#EXTINF:-1 ,FR: FOOT+
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", FOOT+
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81107
-#EXTINF:-1 ,FR: EUROSPORT 1
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", EUROSPORT 1
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81106
-#EXTINF:-1 ,FR: EUROSPORT 2
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", EUROSPORT 2
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81105
-#EXTINF:-1 ,FR: Auto Moto HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Auto Moto HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81104
-#EXTINF:-1 ,FR: Equidia HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Equidia HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81103
-#EXTINF:-1 ,FR: GOLF  HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", GOLF  HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81102
-#EXTINF:-1 ,FR: CRIME DISTRICT HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CRIME DISTRICT HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81100
-#EXTINF:-1 ,FR: DISCOVERY HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", DISCOVERY HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81099
-#EXTINF:-1 ,FR: DISCOVERY SCI HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", DISCOVERY SCI HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81098
-#EXTINF:-1 ,FR: DISCOVERY INVESTIGATION HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", DISCOVERY INVESTIGATION HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81097
-#EXTINF:-1 ,FR: DISCOVERY FAMILY HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", DISCOVERY FAMILY HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81096
-#EXTINF:-1 ,FR: National Geographic HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", National Geographic HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81094
-#EXTINF:-1 ,FR: Nat geo Wild
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Nat geo Wild
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81093
-#EXTINF:-1 ,FR: PLANETE +
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", PLANETE +
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81092
-#EXTINF:-1 ,FR: PLANETE+ CI HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", PLANETE+ CI HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81091
-#EXTINF:-1 ,FR: PLANETE A&E
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", PLANETE A&E
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81090
-#EXTINF:-1 ,FR: Histoire
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Histoire
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81089
-#EXTINF:-1 ,FR: TOUTE L'HISTOIRE HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TOUTE L'HISTOIRE HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81088
-#EXTINF:-1 ,FR: Voyage HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Voyage HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81087
-#EXTINF:-1 ,FR: SEASONS
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", SEASONS
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81086
-#EXTINF:-1 ,FR: ANIMAUX HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", ANIMAUX HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81085
-#EXTINF:-1 ,FR: CHASSE ET PECHE HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", CHASSE ET PECHE HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81084
-#EXTINF:-1 ,FR: Ushuaia TV
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Ushuaia TV
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81083
-#EXTINF:-1 ,FR: SCIENCES ET VIE TV
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", SCIENCES ET VIE TV
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81082
-#EXTINF:-1 ,FR: TREK HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TREK HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81081
-#EXTINF:-1 ,FR: MTV HITS
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", MTV HITS
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81080
-#EXTINF:-1 ,FR: MTV DANCE
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", MTV DANCE
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81079
-#EXTINF:-1 ,FR: NRJ HITS
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", NRJ HITS
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81078
-#EXTINF:-1 ,FR: M6 Music
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", M6 Music
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81077
-#EXTINF:-1 ,FR: TRACE URBAN
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TRACE URBAN
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81076
-#EXTINF:-1 ,FR: TRACE AFRICA
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TRACE AFRICA
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81075
-#EXTINF:-1 ,FR: TRACE MZIKI
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TRACE MZIKI
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81073
-#EXTINF:-1 ,FR: Bblack! Classik
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Bblack! Classik
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81070
-#EXTINF:-1 ,FR: Bblack! Africa
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Bblack! Africa
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81069
-#EXTINF:-1 ,FR: Bblack! Caribbean
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Bblack! Caribbean
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81068
-#EXTINF:-1 ,FR: Mezzo
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Mezzo
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81067
-#EXTINF:-1 ,FR: Mezzo Live HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", Mezzo Live HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81066
-#EXTINF:-1 ,FR: RFM TV
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RFM TV
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81065
-#EXTINF:-1 ,FR: TV3V
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV3V
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81063
-#EXTINF:-1 ,FR: TV5 STYLE
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV5 STYLE
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81062
-#EXTINF:-1 ,FR: TV8
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", TV8
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81061
 #EXTINF:-1 ,===== CHAINES INFOS =====
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81060
-#EXTINF:-1 ,FR: BFM Business
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BFM Business
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81059
-#EXTINF:-1 ,FR: BFM PARIS
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", BFM PARIS
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81058
 #EXTINF:-1 ,TV5 MONDE
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81057
-#EXTINF:-1 ,FR: EURONEWS HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", EURONEWS HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81056
-#EXTINF:-1 ,FR: FRANCE 24
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", FRANCE 24
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81055
-#EXTINF:-1 ,FR: France info
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", France info
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81054
-#EXTINF:-1 ,FR: LCI HD
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", LCI HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81053
-#EXTINF:-1 ,FR: RT FRANCE
+#EXTINF:-1 group-title="FRENCH"  tvg-logo="", RT FRANCE
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81051
-#EXTINF:-1 ,AR:Libya-Sport-2-HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/68634
-
 #EXTINF:-1 group-title="UK"  tvg-logo="",3E
 http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/2956
 #EXTINF:-1 group-title="UK"  tvg-logo="",4Seven
@@ -1198,3 +1195,365 @@ http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/28780
 http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/28768
 #EXTINF:-1 group-title="UK"  tvg-logo="",POP
 http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/28777
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT 1 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31236
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT 1 (Backup)
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31235
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT 2 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31234
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT 2 (Backup)
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31233
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT 3 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31232
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT 3 (Backup)
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31231
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Open Beyond TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31230
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Alpha TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31229
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Alpha (Backup)
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31228
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:MEGA TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31227
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ANT1
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31226
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Ant1 Cyprus
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31225
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Skai HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31224
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Skai (Backup)
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31223
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Sport 1
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31222
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Sport 2
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31221
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Sport 3
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31220
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Sport 4
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31219
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Sport 5
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31218
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Sport 6 (Live only on match)
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31155
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Sport Start (Live only on match)
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31157
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Sports Prime (ONLY LIVE)
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31154
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:STAR HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31217
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Eurosport 1
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31216
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Eurosport 2
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31215
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Sport 1
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31214
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Sport 2
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31213
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Sport 3
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31212
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Sport 4
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31211
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Sport 5
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31210
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Sport 6
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31209
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Sport 7
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31208
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Sport 8
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31207
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Cinema 1 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31206
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Cinema 2 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31205
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Cinema 3 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31204
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Cinema 4 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31203
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Cinema 1 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31202
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Cinema 2 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31201
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Cinema 3 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31200
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Village Cinema HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31199
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Vouli HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31198
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Animal Planet
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31197
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Discovery Channel
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31196
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Discovery Science
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31195
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:fishing ellenika
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31194
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Discovery World
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31193
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Creta TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31192
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Discovery Dtx
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31191
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:History
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31190
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:National Geografic
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31189
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:National Geografic wILD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31188
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Viasat History
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31187
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Viasat Natura
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31186
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Viasat Explore
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31185
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:4E HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31184
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:4E Star
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31183
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:AB Channel HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31182
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Action 24 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31181
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ALERT TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31180
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Axeloos TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31179
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:BBC Earth
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31178
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Baby TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31177
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Bollywood
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31176
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:CRETA TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31175
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cannali Music
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31174
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:CBS REALITY
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31173
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Channel 9 TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31172
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Crime Investigation
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31171
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Delta TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31170
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Disney junior
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31169
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Disney Channel
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31168
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Disney Xd
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31167
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:E! Entertainment
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31166
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:EOE TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31165
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Body in Balance HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31164
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT PLAY 1 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31163
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT PLAY 2 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31162
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT PLAY 3 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31161
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT PLAY 4 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31160
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ERT World HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31159
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Explore Channel
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31156
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Food Network HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31153
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Throne Season 1 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31152
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Throne Season 2 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31151
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Throne Season 3 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31150
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Throne Season 4 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31149
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Throne Season 5 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31148
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Throne Season 6 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31147
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Throne Season 7 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31146
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Throne Season 8 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31145
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Fox
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31144
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Fox Sport
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52128
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Fox Life
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52127
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Fashion TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52126
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Greek Cinema 1
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52125
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Greek Cinema 2
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52124
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Greek Cinema 3
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52123
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Greek Cinema 4
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52122
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Greek Cinema 5
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52121
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:GREEK VOICE
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52120
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:GROOVY CY
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52119
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:High TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52118
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Cosmote Sport Highlights
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52117
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Kontra TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52116
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Makedonia TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52115
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:MAD TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52114
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:MAD HITS
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52113
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:MAGIC TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52112
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Mesogeios TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52111
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nautical Channel
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52110
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 1 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52109
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 2 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52108
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 3 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52107
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 4 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52106
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 5 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52105
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 6 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52104
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 7 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52103
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 8 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52102
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 9 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52101
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 10 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52100
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:TV100
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52099
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 11 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52098
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 12 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52097
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 13 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52096
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 14 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52095
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 15 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52094
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 16 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52093
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 17 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52092
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 18 HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52091
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 1 4K
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52090
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 2 4K
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52089
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 3 4K
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52088
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 4 4K
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52087
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 5 4K
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52086
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:KPHTI TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52085
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Outdoor Channel
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52084
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 6 4K
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52083
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 7 4K
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52082
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 8 4K
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52081
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere 9 4K
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52080
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere Starz FHD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52079
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere Fantasy FHD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52078
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere Comedy FHD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52077
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:ZOUGLA TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52076
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Zouzounia
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52075
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nova Premiere Action FHD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52074
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:91 NRG TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52073
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:PAOK TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52072
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:PONTIAKA TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52071
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:RIK Sat
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52070
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Rik
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52069
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:RIK 2
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52068
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Samiaki TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52067
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:SIGMA TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52066
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Smile TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52065
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Ionian TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52064
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Thraki TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52063
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:THRAKI NET TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52062
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Tile Musiki
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52061
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:EPILOGES TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52060
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:TILESPORT
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52059
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:TRT Greek
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52058
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:TV 1000
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52057
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:TV1 Siros
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52056
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Wixlar TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52055
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:XALASTRA TV
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52054
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Nickelodeon HD
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52053
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Zouzounia
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52052
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Bob Spong
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57949
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Netflix Premiere 1
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57946
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Netflix Premiere 2
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57945
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Netflix Premiere 3
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57944
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:Netflix Premiere 4
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57942
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:NetFlix Premiere 5
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57941
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:NetFlix Premiere 6
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57940
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:NetFlix Premiere 7
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57939
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:NetFlix Premiere 9
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57938
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:NetFlix Premiere 8
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57937
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:NetFlix Premiere 10
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/53481
+#EXTINF:-1 group-title="ELLINIKA"  tvg-logo="",:NetFlix Premiere 11
+http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/53482
