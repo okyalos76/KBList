@@ -97,3 +97,444 @@ https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:-1 group-title="UK"  tvg-name="BBC BRIT"  tvg-logo="",BBC Brit
 http://58.65.171.202:8000/play/2016/index.m3u8
+#EXTINF:-1 group-title="Belgium"  tvg-name="La Une"  tvg-logo="",La Une
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5929
+#EXTINF:-1 group-title="Belgium"  tvg-name="La Deux"  tvg-logo="",La Deux
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/689148
+#EXTINF:-1 group-title="Belgium"  tvg-name="La Trois"  tvg-logo="",La Trois
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5927
+#EXTINF:-1 group-title="Belgium"  tvg-name="BX1"  tvg-logo="",Bx1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 group-title="Belgium"  tvg-name="LN24"  tvg-logo="",Ln24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 ,France: Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 ,France: France 24 (ENG)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 ,France: France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 ,France: France 24 Arabic
+http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,France: France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 ,France: France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 ,France: France 24 French
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,France: TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 ,France: TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1 ,France: TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 ,France: TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 ,France: TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1 ,France: TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 ,France: TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 ,FR: NETFLIX FILM 1 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81276
+#EXTINF:-1 ,FR: NETFLIX FILM 2 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81275
+#EXTINF:-1 ,FR: NETFLIX FILM 4 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81273
+#EXTINF:-1 ,FR: NETFLIX FILM 5 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81272
+#EXTINF:-1 ,FR: NETFLIX FILM 6 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81271
+#EXTINF:-1 ,FR: NETFLIX FILM 7 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81270
+#EXTINF:-1 ,FR: NETFLIX FILM 8 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81269
+#EXTINF:-1 ,FR: Magico CINEMA HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81268
+#EXTINF:-1 ,FR: Magico CINEMA ACTION HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81267
+#EXTINF:-1 ,FR: Magico CINEMA ACTION 2 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81266
+#EXTINF:-1 ,FR: Magico CINEMA DRAME 1 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81264
+#EXTINF:-1 ,FR: Magico CINEMA GOLD HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81263
+#EXTINF:-1 ,FR: TF1 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81262
+#EXTINF:-1 ,FR: FRANCE 2 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81261
+#EXTINF:-1 ,FR: FRANCE 3 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81260
+#EXTINF:-1 ,FR: ARTE FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81259
+#EXTINF:-1 ,FR: M6 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81258
+#EXTINF:-1 ,FR: FRANCE 5 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81257
+#EXTINF:-1 ,FR: C8 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81256
+#EXTINF:-1 ,FR: W9 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81255
+#EXTINF:-1 ,FR: TMC FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81254
+#EXTINF:-1 ,FR: TFX FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81253
+#EXTINF:-1 ,FR: NRJ 12 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81252
+#EXTINF:-1 ,FR: FRANCE 4 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81251
+#EXTINF:-1 ,FR: BFM TV FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81250
+#EXTINF:-1 ,FR: CNEWS FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81249
+#EXTINF:-1 ,FR: CSTAR FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81248
+#EXTINF:-1 ,FR: GULLI FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81247
+#EXTINF:-1 ,FR: L'EQUIPE FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81246
+#EXTINF:-1 ,FR: TF1 SERIES/FILMS FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81245
+#EXTINF:-1 ,FR: 6TER FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81244
+#EXTINF:-1 ,FR: RMC STORY FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81243
+#EXTINF:-1 ,FR: RMC DECOUVERTE FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81242
+#EXTINF:-1 ,FR: CHERIE 25 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81241
+#EXTINF:-1 ,FR: TF1 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81240
+#EXTINF:-1 ,FR: France 2 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81239
+#EXTINF:-1 ,FR: France 3 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81238
+#EXTINF:-1 ,FR: CANAL+
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81237
+#EXTINF:-1 ,FR: Arte HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81236
+#EXTINF:-1 ,FR: M6
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81235
+#EXTINF:-1 ,FR: France 5 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81234
+#EXTINF:-1 ,FR: C8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81233
+#EXTINF:-1 ,FR: W9
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81232
+#EXTINF:-1 ,FR: TMC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81231
+#EXTINF:-1 ,FR: TFX
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81230
+#EXTINF:-1 ,FR: NRJ 12 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81229
+#EXTINF:-1 ,FR: France 4 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81228
+#EXTINF:-1 ,FR: BFM TV
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81227
+#EXTINF:-1 ,FR: CNEWS
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81226
+#EXTINF:-1 ,FR: CSTAR
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81225
+#EXTINF:-1 ,FR: Gulli
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81224
+#EXTINF:-1 ,FR: France O
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81223
+#EXTINF:-1 ,FR: l'Equipe 21 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81222
+#EXTINF:-1 ,FR: TF1 SERIES FILMS HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81221
+#EXTINF:-1 ,FR: 6ter HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81220
+#EXTINF:-1 ,FR: RMC Story HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81219
+#EXTINF:-1 ,FR: RMC DECOUVERTE HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81218
+#EXTINF:-1 ,FR: CHERIE 25 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81217
+#EXTINF:-1 ,FR: RMC SPORT 2 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81215
+#EXTINF:-1 ,FR: RMC SPORT 4 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81213
+#EXTINF:-1 ,FR: RMC Sport 1 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81212
+#EXTINF:-1 ,FR: RMC Sport 2 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81211
+#EXTINF:-1 ,FR: RMC Sport 4 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81209
+#EXTINF:-1 ,FR: RMC Sport 2 Access HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81207
+#EXTINF:-1 ,FR: RMC Sport 3 Access HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81206
+#EXTINF:-1 ,FR: RMC Sport Live 5 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81205
+#EXTINF:-1 ,FR: RMC Sport Live 6 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81204
+#EXTINF:-1 ,FR: RMC Sport Live 7 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81203
+#EXTINF:-1 ,FR: RMC Sport Live 8 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81202
+#EXTINF:-1 ,FR: RMC Sport Live 9 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81201
+#EXTINF:-1 ,FR: RMC Sport Live 10 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81200
+#EXTINF:-1 ,FR: RMC Sport Live 11 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81199
+#EXTINF:-1 ,FR: RMC Sport Live 12 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81198
+#EXTINF:-1 ,FR: RMC Sport Live 13 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81197
+#EXTINF:-1 ,FR: RMC Sport Live 14 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81196
+#EXTINF:-1 ,FR: RMC Sport Live 15 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81195
+#EXTINF:-1 ,FR: RMC Sport Live 16 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81194
+#EXTINF:-1 ,FR: RMC SPORT NEWS FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81193
+#EXTINF:-1 ,FR: RMC Sport News HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81192
+#EXTINF:-1 ,FR: BEIN SPORTS 1 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81191
+#EXTINF:-1 ,FR: BEIN SPORTS 2 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81190
+#EXTINF:-1 ,FR: BEIN SPORTS 3 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81189
+#EXTINF:-1 ,FR: BeIN Sports 1
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81188
+#EXTINF:-1 ,FR: BeIN Sports 2
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81187
+#EXTINF:-1 ,FR: BeIN Sports 3
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81186
+#EXTINF:-1 ,FR: BeIN Sports MAX 4
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81185
+#EXTINF:-1 ,FR: BeIN Sports MAX 5
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81184
+#EXTINF:-1 ,FR: BeIN Sports MAX 6
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81183
+#EXTINF:-1 ,FR: BeIN Sports MAX 7
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81182
+#EXTINF:-1 ,FR: BeIN Sports MAX 8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81181
+#EXTINF:-1 ,FR: BeIN Sports MAX 9
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81180
+#EXTINF:-1 ,FR: BeIN Sports MAX 10
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81179
+#EXTINF:-1 ,===== CANALSAT FHD =====
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81178
+#EXTINF:-1 ,FR: CANAL+ CINEMA FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81177
+#EXTINF:-1 ,FR: CANAL+ DECALE FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81176
+#EXTINF:-1 ,FR: CANAL+ FAMILY FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81175
+#EXTINF:-1 ,FR: CANAL+ SERIES FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81174
+#EXTINF:-1 ,FR: CINE+ PREMIER FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81173
+#EXTINF:-1 ,FR: CINE+ FRISSON FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81172
+#EXTINF:-1 ,FR: CINE+ FAMIZ FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81171
+#EXTINF:-1 ,FR: CINE+ CLASSIC FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81170
+#EXTINF:-1 ,|FR6 CINE+ CLUB FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81169
+#EXTINF:-1 ,===== CANALSAT =====
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81168
+#EXTINF:-1 ,FR: CANAL+ CINEMA
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81167
+#EXTINF:-1 ,FR: CANAL+ DECALE
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81166
+#EXTINF:-1 ,FR: CANAL+ FAMILY
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81165
+#EXTINF:-1 ,FR: CANAL+ SERIES
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81164
+#EXTINF:-1 ,FR: CANAL+ SPORT
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81163
+#EXTINF:-1 ,FR: CINE+ PREMIER
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81162
+#EXTINF:-1 ,FR: CINE+ FRISSON
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81161
+#EXTINF:-1 ,FR: CINE+ FAMIZ
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81160
+#EXTINF:-1 ,FR: CINE+ EMOTION
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81159
+#EXTINF:-1 ,FR: CINE+ CLASSIC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81158
+#EXTINF:-1 ,FR: OCS MAX
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81156
+#EXTINF:-1 ,FR: OCS CITY
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81155
+#EXTINF:-1 ,FR: OCS GEANTS
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81154
+#EXTINF:-1 ,FR: OCS CHOC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81153
+#EXTINF:-1 ,[CA-FR] SUPER ECRAN 1
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81152
+#EXTINF:-1 ,FR: WARNER TV
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81147
+#EXTINF:-1 ,FR: TCM CINEMA
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81146
+#EXTINF:-1 ,FR: Paramount Channel HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81145
+#EXTINF:-1 ,FR: Paramount Channel Decale HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81144
+#EXTINF:-1 ,FR: SERIE CLUB HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81142
+#EXTINF:-1 ,FR: 13EME RUE HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81140
+#EXTINF:-1 ,FR: AB3 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81138
+#EXTINF:-1 ,FR: PARIS PREMIERE HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81137
+#EXTINF:-1 ,FR: BET HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81135
+#EXTINF:-1 ,FR: COMEDIE+
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81134
+#EXTINF:-1 ,FR: MY COMEDY
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81133
+#EXTINF:-1 ,FR: TV Breizh
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81132
+#EXTINF:-1 ,FR: TEVA
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81131
+#EXTINF:-1 ,FR: E! ENTERTAINMENT HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81130
+#EXTINF:-1 ,FR: MTV HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81129
+#EXTINF:-1 ,FR: MCM
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81128
+#EXTINF:-1 ,FR: PIWI+
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81127
+#EXTINF:-1 ,FR: Tiji
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81126
+#EXTINF:-1 ,FR: DISNEY JUNIOR
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81123
+#EXTINF:-1 ,FR: DISNEY XD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81122
+#EXTINF:-1 ,FR: NICKELODEON
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81121
+#EXTINF:-1 ,FR: NICKELODEON JUNIOR
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81120
+#EXTINF:-1 ,FR: NICKELODEON TEEN
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81119
+#EXTINF:-1 ,FR: Boomerang
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81118
+#EXTINF:-1 ,FR: BOING
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81117
+#EXTINF:-1 ,FR: TELETOON+
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81116
+#EXTINF:-1 ,FR: Canal J
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81115
+#EXTINF:-1 ,FR: CARTOON NETWORK
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81114
+#EXTINF:-1 ,FR: Toonami
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81113
+#EXTINF:-1 ,FR: J-ONE HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81111
+#EXTINF:-1 ,FR: Game One
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81110
+#EXTINF:-1 ,FR: INFOSPORT+
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81108
+#EXTINF:-1 ,FR: FOOT+
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81107
+#EXTINF:-1 ,FR: EUROSPORT 1
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81106
+#EXTINF:-1 ,FR: EUROSPORT 2
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81105
+#EXTINF:-1 ,FR: Auto Moto HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81104
+#EXTINF:-1 ,FR: Equidia HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81103
+#EXTINF:-1 ,FR: GOLF  HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81102
+#EXTINF:-1 ,FR: CRIME DISTRICT HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81100
+#EXTINF:-1 ,FR: DISCOVERY HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81099
+#EXTINF:-1 ,FR: DISCOVERY SCI HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81098
+#EXTINF:-1 ,FR: DISCOVERY INVESTIGATION HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81097
+#EXTINF:-1 ,FR: DISCOVERY FAMILY HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81096
+#EXTINF:-1 ,FR: National Geographic HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81094
+#EXTINF:-1 ,FR: Nat geo Wild
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81093
+#EXTINF:-1 ,FR: PLANETE +
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81092
+#EXTINF:-1 ,FR: PLANETE+ CI HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81091
+#EXTINF:-1 ,FR: PLANETE A&E
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81090
+#EXTINF:-1 ,FR: Histoire
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81089
+#EXTINF:-1 ,FR: TOUTE L'HISTOIRE HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81088
+#EXTINF:-1 ,FR: Voyage HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81087
+#EXTINF:-1 ,FR: SEASONS
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81086
+#EXTINF:-1 ,FR: ANIMAUX HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81085
+#EXTINF:-1 ,FR: CHASSE ET PECHE HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81084
+#EXTINF:-1 ,FR: Ushuaia TV
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81083
+#EXTINF:-1 ,FR: SCIENCES ET VIE TV
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81082
+#EXTINF:-1 ,FR: TREK HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81081
+#EXTINF:-1 ,FR: MTV HITS
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81080
+#EXTINF:-1 ,FR: MTV DANCE
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81079
+#EXTINF:-1 ,FR: NRJ HITS
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81078
+#EXTINF:-1 ,FR: M6 Music
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81077
+#EXTINF:-1 ,FR: TRACE URBAN
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81076
+#EXTINF:-1 ,FR: TRACE AFRICA
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81075
+#EXTINF:-1 ,FR: TRACE MZIKI
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81073
+#EXTINF:-1 ,FR: Bblack! Classik
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81070
+#EXTINF:-1 ,FR: Bblack! Africa
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81069
+#EXTINF:-1 ,FR: Bblack! Caribbean
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81068
+#EXTINF:-1 ,FR: Mezzo
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81067
+#EXTINF:-1 ,FR: Mezzo Live HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81066
+#EXTINF:-1 ,FR: RFM TV
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81065
+#EXTINF:-1 ,FR: TV3V
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81063
+#EXTINF:-1 ,FR: TV5 STYLE
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81062
+#EXTINF:-1 ,FR: TV8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81061
+#EXTINF:-1 ,===== CHAINES INFOS =====
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81060
+#EXTINF:-1 ,FR: BFM Business
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81059
+#EXTINF:-1 ,FR: BFM PARIS
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81058
+#EXTINF:-1 ,TV5 MONDE
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81057
+#EXTINF:-1 ,FR: EURONEWS HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81056
+#EXTINF:-1 ,FR: FRANCE 24
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81055
+#EXTINF:-1 ,FR: France info
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81054
+#EXTINF:-1 ,FR: LCI HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81053
+#EXTINF:-1 ,FR: RT FRANCE
+http://pyramidsiptv.com:8080/mohamed/mohamed123/81051
+#EXTINF:-1 ,AR:Libya-Sport-2-HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/68634
+
