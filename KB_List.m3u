@@ -53,8 +53,12 @@ http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 #EXTINF:-1 group-title="FRENCH"  tvg-name="France 5" tvg-logo="https://i.postimg.cc/8zjFkLJz/fr5.png",France 5
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRENCH",BFM BUSINESS HD
-http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3605
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="FRENCH",BFM BUSINESS
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="FRENCH",BFMTV
+http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/xgz4t1
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/kPvRgcY.png" group-title="FRENCH",CSTAR
+http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRENCH",BOOMERANG FHD
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/2672
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRENCH",6TER FHD
@@ -91,3 +95,5 @@ http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/3545
 https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
 #EXTINF:-1 group-title="Luxembourg"  tvg-name="RTL 2 Tele Letzeburg"  tvg-logo="https://i.imgur.com/bJrUjIC.png",RTL 2 Tele Letzeburg
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 group-title="UK"  tvg-name="BBC BRIT"  tvg-logo="",BBC Brit
+http://58.65.171.202:8000/play/2016/index.m3u8
