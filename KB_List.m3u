@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 group-title="Belgium" tvg-logo="",La Une BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5929
+#EXTINF:-1 group-title="Belgium" tvg-logo="",La Deux FHD BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/689148
+#EXTINF:-1 group-title="Belgium" tvg-logo="",La Trois BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5927
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Een FHD BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5923
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM FHD BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5919
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 2 FHD BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13428
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 3 HD BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5920
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 4 BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13426
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM Nieuws BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13419
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Vier FHD BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5922
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VIJF BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5921
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ZES BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13413
+#EXTINF:-1 group-title="Belgium" tvg-logo="",BX1 BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13418
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Canvas FHD BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5932
+#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL TVI HD BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5925
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Notele HD BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13422
+#EXTINF:-1 group-title="Belgium" tvg-logo="",TVL BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13415
+#EXTINF:-1 group-title="Belgium" tvg-logo="",LN 24 HD BE
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/683181
 #EXTINF:-1 group-title="Belgium" tvg-logo="", Bx1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 group-title="Belgium" tvg-logo="", LaDeux
