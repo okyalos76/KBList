@@ -1,412 +1,678 @@
 #EXTM3U
-#EXTINF:-1 group-title="Belgium" tvg-logo="",La Une BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5929
-#EXTINF:-1 group-title="Belgium" tvg-logo="",La Deux FHD BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/689148
-#EXTINF:-1 group-title="Belgium" tvg-logo="",La Trois BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5927
-#EXTINF:-1 group-title="Belgium" tvg-logo="",Een FHD BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5923
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM FHD BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5919
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 2 FHD BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13428
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 3 HD BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5920
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 4 BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13426
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM Nieuws BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13419
-#EXTINF:-1 group-title="Belgium" tvg-logo="",Vier FHD BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5922
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VIJF BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5921
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ZES BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13413
-#EXTINF:-1 group-title="Belgium" tvg-logo="",BX1 BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13418
-#EXTINF:-1 group-title="Belgium" tvg-logo="",Canvas FHD BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5932
-#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL TVI HD BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5925
-#EXTINF:-1 group-title="Belgium" tvg-logo="",Notele HD BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13422
-#EXTINF:-1 group-title="Belgium" tvg-logo="",TVL BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13415
-#EXTINF:-1 group-title="Belgium" tvg-logo="",LN 24 HD BE
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/683181
-#EXTINF:-1 group-title="Belgium" tvg-logo="", Bx1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 group-title="Belgium" tvg-logo="", LaDeux
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/689148
-#EXTINF:-1 group-title="Belgium" tvg-logo="", LaTrois
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5927
-#EXTINF:-1 group-title="Belgium" tvg-logo="", LaUne
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/5929
-#EXTINF:-1 group-title="Belgium" tvg-logo="", Ln24
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", 4EHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31184
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", 4EStar
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31183
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", 91NRGTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52073
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ABChannelHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31182
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Action24HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31181
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ALERTTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31180
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Alpha(Backup)
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31228
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", AlphaTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31229
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", AnimalPlanet
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31197
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ANT1
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31226
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Ant1Cyprus
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31225
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", AxeloosTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31179
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", BabyTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31177
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", BBCEarth
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31178
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", BobSpong
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57949
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", BodyinBalanceHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31164
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Bollywood
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31176
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CannaliMusic
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31174
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CBSREALITY
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31173
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Channel9TV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31172
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteCinema1HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31202
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteCinema2HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31201
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteCinema3HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31200
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteSport1
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31214
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteSport2
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31213
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteSport3
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31212
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteSport4
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31211
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteSport5
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31210
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteSport6
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31209
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteSport7
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31208
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteSport8
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31207
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CosmoteSportHighlights
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52117
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CretaTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31192
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CRETATV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31175
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", CrimeInvestigation
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31171
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", DeltaTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31170
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", DiscoveryChannel
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31196
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", DiscoveryDtx
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31191
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", DiscoveryScience
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31195
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", DiscoveryWorld
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31193
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", DisneyChannel
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31168
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Disneyjunior
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31169
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", DisneyXd
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31167
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", E!Entertainment
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31166
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", EOETV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31165
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", EPILOGESTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52060
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERT1(Backup)
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31235
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERT1HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31236
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERT2(Backup)
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31233
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERT2HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31234
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERT3(Backup)
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31231
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERT3HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31232
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERTPLAY1HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31163
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERTPLAY2HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31162
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERTPLAY3HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31161
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERTPLAY4HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31160
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ERTWorldHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31159
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Eurosport1
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31216
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Eurosport2
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31215
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ExploreChannel
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31156
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", FashionTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52126
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", fishingellenika
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31194
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", FoodNetworkHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31153
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Fox
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31144
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", FoxLife
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52127
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", FoxSport
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52128
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", GreekCinema1
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52125
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", GreekCinema2
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52124
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", GreekCinema3
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52123
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", GreekCinema4
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52122
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", GreekCinema5
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52121
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", GREEKVOICE
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52120
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", GROOVYCY
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52119
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", HighTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52118
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", History
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31190
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", IonianTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52064
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", KontraTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52116
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", KPHTITV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52085
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", MADHITS
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52113
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", MADTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52114
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", MAGICTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52112
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", MakedoniaTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52115
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", MEGATV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31227
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", MesogeiosTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52111
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NationalGeografic
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31189
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NationalGeograficwILD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31188
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NauticalChannel
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52110
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetflixPremiere1
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57946
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetFlixPremiere10
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/53481
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetFlixPremiere11
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/53482
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetflixPremiere2
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57945
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetflixPremiere3
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57944
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetflixPremiere4
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57942
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetFlixPremiere5
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57941
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetFlixPremiere6
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57940
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetFlixPremiere7
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57939
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetFlixPremiere8
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57937
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NetFlixPremiere9
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/57938
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NickelodeonHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52053
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaCinema1HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31206
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaCinema2HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31205
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaCinema3HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31204
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaCinema4HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31203
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere10HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52100
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere11HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52098
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere12HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52097
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere13HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52096
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere14HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52095
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere14K
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52090
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere15HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52094
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere16HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52093
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere17HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52092
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere18HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52091
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere1HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52109
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere24K
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52089
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere2HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52108
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere34K
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52088
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere3HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52107
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere44K
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52087
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere4HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52106
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere54K
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52086
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere5HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52105
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere64K
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52083
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere6HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52104
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere74K
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52082
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere7HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52103
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere84K
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52081
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere8HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52102
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere94K
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52080
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiere9HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52101
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiereActionFHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52074
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiereComedyFHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52077
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiereFantasyFHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52078
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaPremiereStarzFHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52079
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaSport1
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31222
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaSport2
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31221
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaSport3
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31220
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaSport4
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31219
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaSport5
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31218
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaSport6(Liveonlyonmatch)
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31155
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaSportsPrime(ONLYLIVE)
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31154
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaSportStart(Liveonlyonmatch)
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31157
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaThroneSeason1HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31152
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaThroneSeason2HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31151
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaThroneSeason3HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31150
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaThroneSeason4HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31149
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaThroneSeason5HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31148
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaThroneSeason6HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31147
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaThroneSeason7HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31146
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", NovaThroneSeason8HD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31145
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", OpenBeyondTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31230
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", OutdoorChannel
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52084
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", PAOKTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52072
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", PONTIAKATV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52071
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Rik
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52069
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", RIK2
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52068
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", RIKSat
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52070
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", SamiakiTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52067
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", SIGMATV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52066
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Skai(Backup)
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31223
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", SkaiHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31224
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", SmileTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52065
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", STARHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31217
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", THRAKINETTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52062
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ThrakiTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52063
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", TileMusiki
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52061
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", TILESPORT
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52059
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", TRTGreek
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52058
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", TV100
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52099
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", TV1000
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52057
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", TV1Siros
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52056
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ViasatExplore
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31185
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ViasatHistory
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31187
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ViasatNatura
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31186
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", VillageCinemaHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31199
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", VouliHD
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/31198
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", WixlarTV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52055
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", XALASTRATV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52054
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", ZOUGLATV
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52076
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Zouzounia
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52075
-#EXTINF:-1 group-title="ELLINIKA" tvg-logo="", Zouzounia
-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/52052
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",ErtHD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/548.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Ert1
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/58.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Ert2
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/18.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Ert3
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/28.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Alpha
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Ant1
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/20.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Skai
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/22.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Star
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Mega
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36087.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Makedonia
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/19.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Alpha HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2366.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Ant1 HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2369.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Star HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2368.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Skai HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2367.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Open HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/65.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",MakedoniatvHD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/24.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Makedonia SD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/679.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Open SD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/678.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Mega HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/18170.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",OneTv
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/22512.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Extra
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/18162.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",4E
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/18163.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Ionian
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/18164.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Tv100
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/18165.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Creta TV
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/18168.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Axelos TV
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/18171.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Samiaki
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/18174.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Blue Sky
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/19083.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Art
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2511.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",KrhthTV
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/67.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Kontratv
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/29.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",***** Cyprus *****
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/0.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",ExtraCy
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2716.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CapitalCy
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2715.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",PlusCy
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2714.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",ERT1HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2418.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Ant1Cy
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2417.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Rik2
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/528.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Rik1
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/527.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",MegaCy
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/526.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",SigmaCy
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/176.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",***** Music *****
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/0.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",ERT3HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/745.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Mad
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/549.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",MadGreekz
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/44.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",***** Kids *****
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/0.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Babytv
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/34.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Disney
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/33.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Disneyjunior
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/32.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Disneyxd
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/31.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",ERT2HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/30.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Boomerang
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21310.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Nickelodeon
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/4.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaKids MAX1
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3046.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaKids MAX2
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3044.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaKids MAX3
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3045.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaKids1 HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/646.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaKids2 HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/645.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaKids3
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2407.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaKids4
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/22517.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaKids5
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/22516.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaKids6
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3041.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaKids7
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3042.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",***** Entertainment *****
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/0.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Fox
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/37.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Foxlife
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cosmote History
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2874.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",AnimalPlanet
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/40.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Tlc
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/542.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Travel
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/175.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",History
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/52.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Discovery
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/42.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",DiscoveryIDX
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/69.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Discovery Dtx
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2043.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",DiscoveryScience
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/181.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",DiscoveryShowcase
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/41.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Natgeowild
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/39.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NatgeographicHD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/38.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Sundance
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/576.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",BodyInBalance
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/19085.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Viasat Explorer
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2932.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Viasat Nature
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2937.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Viasat History
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/545.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Nautical Channel
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2936.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Fine Living
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2935.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Outdoor Channel
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2934.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Crime Investigation
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2933.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Food Network
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2931.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Bbc Earth
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2929.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cbs Reality
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2928.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",E! Enetertaiment
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2873.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",***** Cinema *****
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/0.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteCinema1HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/47.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteCinema2HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/48.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteCinema3HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/49.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSeriesHD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/428.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteCinema DisneyPrincessHD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36035.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",VillageHD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/46.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaCinema1
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/382.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaCinema2
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/406.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaCinema3
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2896.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaCinema4
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2897.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Nova Life
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23484.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Prime 1HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/35995.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Prime 2HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/35996.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Prime 3HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/35997.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Prime 4HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/35998.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Prime 5HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36003.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Prime 6HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/35999.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Prime 7HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36000.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Prime 8HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36001.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Prime 9HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36002.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Premier 1HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36029.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Premier 2HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36030.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Premier 3HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36031.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Premier 4HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/1961.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid 1HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36019.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid 2HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36020.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid 3HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36021.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid 4HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36022.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid 5HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36023.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid 6HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36024.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid 7HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36025.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid 8HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36026.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid 9HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36027.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid 10HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36028.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Western HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36033.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema JamesBond HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36032.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Comedy +HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3039.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Action +HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/14857.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Crime +HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3035.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Thriller +HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3038.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Fanstasy +HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3036.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Drama +HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3037.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Cinema Hybrid Greek Premier HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/36034.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek Classic 1
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/14854.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek Classic 2
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/14855.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 2
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/3040.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 3
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2913.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 4
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23517.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 5
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23516.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 6
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23515.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 7
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23514.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 8
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23513.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 9
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23512.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 10
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23511.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 11
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23510.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 12
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23509.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CinemaGreek 13
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23508.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere VitrinaHD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23499.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 1
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23462.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 2
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23472.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 3
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23474.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 4
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23477.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 5
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23479.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 6
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23481.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 7
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23483.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 8
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23485.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 9
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23486.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 10
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23464.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 11
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23465.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 12
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23466.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 13
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23467.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 14
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23468.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 15
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23469.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 16
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23470.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 17
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23471.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 3D
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23476.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 1-4K
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23463.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 2-4K
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23473.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 3-4K
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23475.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 4-4K
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23478.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 5-4K
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23480.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere 6-4K
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23482.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Starz
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23497.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere History
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23494.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Passion
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23496.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Horror
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23495.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Animation
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23489.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Hellanic
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23493.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Fantasy
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23492.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Drama
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23491.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Thriller
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23498.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Comedy
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23490.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Adventure
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23488.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaPremiere Action
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/23487.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",***** Sports *****
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/0.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteteSportsHighlightsHD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/533.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport1HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/51.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport1HD-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21303.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport2HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/57.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport2HD-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21304.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport3HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/53.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport3HD-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21305.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport4HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/54.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport4HD-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21306.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport5HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/68.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport5HD-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21307.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport6HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/379.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport6HD-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21308.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport7HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/380.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport7HD-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21416.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport8HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/381.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport8HD-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21417.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport9HD
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/14144.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",CosmoteSport9HD-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21418.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSport24
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2048.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSport1
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/50.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSport1-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2866.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSport2
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/118.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSport2-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2032.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSport3
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2030.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSport3-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21757.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSport4
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2047.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSport4-
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21758.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSport5
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/2717.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",PaokTv
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/35994.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",EuroSport
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/43.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",EuroSport2
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/574.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",NovaSports Prime
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/14792.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Edge Sport
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/21309.ts
+#EXTINF:-1 group-title="ELLINIKA" tvg-logo="",Fox Sports
+http://hybmtv.dd-dns.de:8888/live/christosgav/acpus84MhH/14793.ts
+#EXTINF:-1 group-title="Belgium" tvg-logo="",LA UNE HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/471
+#EXTINF:-1 group-title="Belgium" tvg-logo="",LA DEUX HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/472
+#EXTINF:-1 group-title="Belgium" tvg-logo="",LA TROIS FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5243
+#EXTINF:-1 group-title="Belgium" tvg-logo="",LA TROIS HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43359
+#EXTINF:-1 group-title="Belgium" tvg-logo="",LA TROIS HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/473
+#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL TVI HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/474
+#EXTINF:-1 group-title="Belgium" tvg-logo="",CLUB RTL HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/475
+#EXTINF:-1 group-title="Belgium" tvg-logo="",PLUG RTL HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/476
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ABXPLORE HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/480
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5244
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM KAZOOM HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5245
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM KIDS HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5246
+#EXTINF:-1 group-title="Belgium" tvg-logo="",XITE BELGIE HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5247
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ZES TV HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5248
+#EXTINF:-1 group-title="Belgium" tvg-logo="",AB 1 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5250
+#EXTINF:-1 group-title="Belgium" tvg-logo="",AB3 BELGIUM HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5251
+#EXTINF:-1 group-title="Belgium" tvg-logo="",BX1 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5252
+#EXTINF:-1 group-title="Belgium" tvg-logo="",BXL 1 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5253
+#EXTINF:-1 group-title="Belgium" tvg-logo="",CAZ HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5254
+#EXTINF:-1 group-title="Belgium" tvg-logo="",CINEMA HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5255
+#EXTINF:-1 group-title="Belgium" tvg-logo="",KADET HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5256
+#EXTINF:-1 group-title="Belgium" tvg-logo="",KETNET KIDS HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5257
+#EXTINF:-1 group-title="Belgium" tvg-logo="",NAT GEO HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5258
+#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL LUX HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5259
+#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL LUXEMBOURG HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5260
+#EXTINF:-1 group-title="Belgium" tvg-logo="",SERIE HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5261
+#EXTINF:-1 group-title="Belgium" tvg-logo="",CINEMA 1 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5262
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VICELAND HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5263
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VIER FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5264
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VIJF HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5265
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VITAYA FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5266
+#EXTINF:-1 group-title="Belgium" tvg-logo="",LN24 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6962
+#EXTINF:-1 group-title="Belgium" tvg-logo="",2BE HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6963
+#EXTINF:-1 group-title="Belgium" tvg-logo="",CANVAS HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6964
+#EXTINF:-1 group-title="Belgium" tvg-logo="",EEN HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6965
+#EXTINF:-1 group-title="Belgium" tvg-logo="",TELE SAMBRE HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6966
+#EXTINF:-1 group-title="Belgium" tvg-logo="",KETNETHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6967
+#EXTINF:-1 group-title="Belgium" tvg-logo="",TELE MB HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6968
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VIER HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6969
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6970
+#EXTINF:-1 group-title="Belgium" tvg-logo="",BRUXELLES HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6971
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ACHT HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/7072
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Q-MUSIC HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/7073
+#EXTINF:-1 group-title="Belgium" tvg-logo="",CANAL C NUMBER HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/7074
+#EXTINF:-1 group-title="Belgium" tvg-logo="",STUDIO BRUSSEL FM HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/7075
+#EXTINF:-1 group-title="Belgium" tvg-logo="",KETNET JUNIOR HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/7076
+#EXTINF:-1 group-title="Belgium" tvg-logo="",AB3 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43338
+#EXTINF:-1 group-title="Belgium" tvg-logo="",CANVAS FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43339
+#EXTINF:-1 group-title="Belgium" tvg-logo="",CANVAS HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43340
+#EXTINF:-1 group-title="Belgium" tvg-logo="",EEN FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43342
+#EXTINF:-1 group-title="Belgium" tvg-logo="",EEN HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43343
+#EXTINF:-1 group-title="Belgium" tvg-logo="",KETNET
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43357
+#EXTINF:-1 group-title="Belgium" tvg-logo="",PLUG RTL HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43364
+#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL TVI HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43365
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VIER FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43366
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VIER HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43367
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VIJF
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43368
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VIJF HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43369
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 1 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43374
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 2 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43375
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 2 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43376
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 3
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43377
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 4
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43378
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43379
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM KİDS
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43381
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ZES
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43382
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ZES HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43383
+#EXTINF:-1 group-title="Belgium" tvg-logo="",CLUB RTL FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/49658
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 1 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51531
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 1 HD.
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5267
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 1 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43370
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 2 FHD.
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51532
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 2 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5268
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 2 HD.
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43371
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 3 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5269
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 1 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43372
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 2 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43373
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 3 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51533
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 1 FHD (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55119
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 2 FHD (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55120
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 3 FHD (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55121
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 1 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5270
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 2 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5271
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 1 (NL)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43351
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 1 (FR)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43352
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 2 (BE)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43353
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 2 (FR)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43354
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 3 (NL)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43355
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 3 (FR)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43356
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 3 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/39715
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 1 HD (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55122
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 2 HD (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55123
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 1 (NL) (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55124
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 1 (FR) (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55125
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 2 (BE) (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55126
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 2 (FR) (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55127
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 3 (NL) (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55128
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 3 (FR) (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55129
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 3 HD (backup)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55130
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 2 HD new (FR)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61705
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 1 HD new (FR)
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61706
+#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS 1 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43361
+#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS 2 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43362
+#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS 3 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43363
+#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS 4 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51536
+#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS 5 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51535
+#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS GOLF FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51534
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUE 1 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43344
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUES 1 FHD+
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43348
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUE 1 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43345
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUE 2 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43347
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUES 2 FHD+
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43349
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUES 3 FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43350
+#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUES 2 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/39950
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Eleven Pro League 3 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/39949
 #EXTINF:-1 group-title="FRENCH" tvg-logo="", 13EMERUEHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81140
 #EXTINF:-1 group-title="FRENCH" tvg-logo="", 6TERFHD
