@@ -1,234 +1,48 @@
 #EXTM3U
-#EXTINF:-1 group-title="Belgium" tvg-logo="",LA UNE HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/471
-#EXTINF:-1 group-title="Belgium" tvg-logo="",LA DEUX HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/472
-#EXTINF:-1 group-title="Belgium" tvg-logo="",LA TROIS FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5243
-#EXTINF:-1 group-title="Belgium" tvg-logo="",LA TROIS HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43359
-#EXTINF:-1 group-title="Belgium" tvg-logo="",LA TROIS HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/473
-#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL TVI HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/474
-#EXTINF:-1 group-title="Belgium" tvg-logo="",CLUB RTL HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/475
-#EXTINF:-1 group-title="Belgium" tvg-logo="",PLUG RTL HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/476
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ABXPLORE HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/480
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5244
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM KAZOOM HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5245
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM KIDS HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5246
-#EXTINF:-1 group-title="Belgium" tvg-logo="",XITE BELGIE HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5247
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ZES TV HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5248
-#EXTINF:-1 group-title="Belgium" tvg-logo="",AB 1 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5250
-#EXTINF:-1 group-title="Belgium" tvg-logo="",AB3 BELGIUM HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5251
-#EXTINF:-1 group-title="Belgium" tvg-logo="",BX1 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5252
-#EXTINF:-1 group-title="Belgium" tvg-logo="",BXL 1 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5253
-#EXTINF:-1 group-title="Belgium" tvg-logo="",CAZ HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5254
-#EXTINF:-1 group-title="Belgium" tvg-logo="",CINEMA HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5255
-#EXTINF:-1 group-title="Belgium" tvg-logo="",KADET HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5256
-#EXTINF:-1 group-title="Belgium" tvg-logo="",KETNET KIDS HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5257
-#EXTINF:-1 group-title="Belgium" tvg-logo="",NAT GEO HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5258
-#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL LUX HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5259
-#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL LUXEMBOURG HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5260
-#EXTINF:-1 group-title="Belgium" tvg-logo="",SERIE HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5261
-#EXTINF:-1 group-title="Belgium" tvg-logo="",CINEMA 1 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5262
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VICELAND HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5263
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VIER FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5264
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VIJF HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5265
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VITAYA FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5266
-#EXTINF:-1 group-title="Belgium" tvg-logo="",LN24 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6962
-#EXTINF:-1 group-title="Belgium" tvg-logo="",2BE HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6963
-#EXTINF:-1 group-title="Belgium" tvg-logo="",CANVAS HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6964
-#EXTINF:-1 group-title="Belgium" tvg-logo="",EEN HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6965
-#EXTINF:-1 group-title="Belgium" tvg-logo="",TELE SAMBRE HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6966
-#EXTINF:-1 group-title="Belgium" tvg-logo="",KETNETHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6967
-#EXTINF:-1 group-title="Belgium" tvg-logo="",TELE MB HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6968
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VIER HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6969
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6970
-#EXTINF:-1 group-title="Belgium" tvg-logo="",BRUXELLES HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/6971
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ACHT HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/7072
-#EXTINF:-1 group-title="Belgium" tvg-logo="",Q-MUSIC HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/7073
-#EXTINF:-1 group-title="Belgium" tvg-logo="",CANAL C NUMBER HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/7074
-#EXTINF:-1 group-title="Belgium" tvg-logo="",STUDIO BRUSSEL FM HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/7075
-#EXTINF:-1 group-title="Belgium" tvg-logo="",KETNET JUNIOR HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/7076
-#EXTINF:-1 group-title="Belgium" tvg-logo="",AB3 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43338
-#EXTINF:-1 group-title="Belgium" tvg-logo="",CANVAS FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43339
-#EXTINF:-1 group-title="Belgium" tvg-logo="",CANVAS HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43340
-#EXTINF:-1 group-title="Belgium" tvg-logo="",EEN FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43342
-#EXTINF:-1 group-title="Belgium" tvg-logo="",EEN HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43343
-#EXTINF:-1 group-title="Belgium" tvg-logo="",KETNET
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43357
-#EXTINF:-1 group-title="Belgium" tvg-logo="",PLUG RTL HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43364
-#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL TVI HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43365
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VIER FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43366
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VIER HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43367
+#EXTINF:-1 group-title="Belgium" tvg-logo="",CANVAS
+http://smartestv.vip:2095/ABHVYOP/2387998104/1994
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Club_RTL
+http://smartestv.vip:2095/ABHVYOP/2387998104/1990
+#EXTINF:-1 group-title="Belgium" tvg-logo="",EEN_Belgium
+http://smartestv.vip:2095/ABHVYOP/2387998104/31792
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Eleven_Sports_1
+http://smartestv.vip:2095/ABHVYOP/2387998104/27020
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Eleven_Sports_2
+http://smartestv.vip:2095/ABHVYOP/2387998104/27019
+#EXTINF:-1 group-title="Belgium" tvg-logo="",Eleven_Sports_3
+http://smartestv.vip:2095/ABHVYOP/2387998104/27018
+#EXTINF:-1 group-title="Belgium" tvg-logo="",LA_DEUX
+http://smartestv.vip:2095/ABHVYOP/2387998104/1991
+#EXTINF:-1 group-title="Belgium" tvg-logo="",LA_TROIS
+http://smartestv.vip:2095/ABHVYOP/2387998104/1988
+#EXTINF:-1 group-title="Belgium" tvg-logo="",LA_UNE
+http://smartestv.vip:2095/ABHVYOP/2387998104/1993
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO_Sport_1
+http://smartestv.vip:2095/ABHVYOP/2387998104/20014
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO_Sport_2
+http://smartestv.vip:2095/ABHVYOP/2387998104/20015
+#EXTINF:-1 group-title="Belgium" tvg-logo="",AB3
+http://smartestv.vip:2095/ABHVYOP/2387998104/7758
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO_Sport_3
+http://smartestv.vip:2095/ABHVYOP/2387998104/7756
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM_2_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/1996
+#EXTINF:-1 group-title="Belgium" tvg-logo="",RTL_TVI_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/1989
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VIER
+http://smartestv.vip:2095/ABHVYOP/2387998104/1995
 #EXTINF:-1 group-title="Belgium" tvg-logo="",VIJF
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43368
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VIJF HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43369
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 1 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43374
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 2 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43375
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 2 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43376
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 3
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43377
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM 4
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43378
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43379
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM KİDS
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43381
+http://smartestv.vip:2095/ABHVYOP/2387998104/7754
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VITAYA
+http://smartestv.vip:2095/ABHVYOP/2387998104/7753
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM_4
+http://smartestv.vip:2095/ABHVYOP/2387998104/1987
 #EXTINF:-1 group-title="Belgium" tvg-logo="",ZES
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43382
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ZES HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43383
-#EXTINF:-1 group-title="Belgium" tvg-logo="",CLUB RTL FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/49658
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 1 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51531
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 1 HD.
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5267
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 1 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43370
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 2 FHD.
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51532
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 2 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5268
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 2 HD.
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43371
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT 3 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5269
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 1 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43372
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 2 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43373
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 3 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51533
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 1 FHD (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55119
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 2 FHD (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55120
-#EXTINF:-1 group-title="Belgium" tvg-logo="",VOO SPORT WORLD 3 FHD (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55121
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 1 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5270
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 2 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/5271
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 1 (NL)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43351
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 1 (FR)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43352
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 2 (BE)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43353
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 2 (FR)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43354
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 3 (NL)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43355
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 3 (FR)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43356
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 3 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/39715
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 1 HD (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55122
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 2 HD (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55123
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 1 (NL) (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55124
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 1 (FR) (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55125
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 2 (BE) (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55126
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 2 (FR) (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55127
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 3 (NL) (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55128
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVENSPORT 3 (FR) (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55129
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 3 HD (backup)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/55130
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 2 HD new (FR)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61705
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN SPORTS 1 HD new (FR)
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61706
-#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS 1 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43361
-#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS 2 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43362
-#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS 3 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43363
-#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS 4 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51536
-#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS 5 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51535
-#EXTINF:-1 group-title="Belgium" tvg-logo="",PLAY SPORTS GOLF FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/51534
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUE 1 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43344
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUES 1 FHD+
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43348
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUE 1 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43345
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUE 2 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43347
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUES 2 FHD+
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43349
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUES 3 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/43350
-#EXTINF:-1 group-title="Belgium" tvg-logo="",ELEVEN PRO LEAGUES 2 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/39950
-#EXTINF:-1 group-title="Belgium" tvg-logo="",Eleven Pro League 3 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/39949
+http://smartestv.vip:2095/ABHVYOP/2387998104/7757
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/1986
+#EXTINF:-1 group-title="Belgium" tvg-logo="",VTM_KIDS_JR
+http://smartestv.vip:2095/ABHVYOP/2387998104/7755
 
 #EXTINF:-1 group-title="FRENCH" tvg-logo="", 13EMERUEHD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/81140
