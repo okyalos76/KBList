@@ -252,13 +252,13 @@ http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
 #EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI - 2 HD 
-https://skai-live-gr-bb.siliconweb.com/media/cambria4/index.m3u8
+http://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:400 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mtv.gr" tvg-logo="https://i.imgur.com/dh22Dj8.png",M.TV HD
 https://antennaamdnoenc.akamaized.net/maktv_akamai/abr/playlist.m3u8
 #EXTINF:983 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
-https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 #EXTINF:3004 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
 https://www.dailymotion.com/embed/video/x61fbhs#tab_embed.m3u8
 #EXTINF:3074 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",APT
